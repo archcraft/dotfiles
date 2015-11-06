@@ -27,4 +27,4 @@ that should work, unless you are using the non-64bit version of windows, or linu
 me, myself and I.
 ## License
 
-download this shit and die. nah, I couldn't give a flying fuck if you steal this, I stole it, steal it and have it stolen.
+there is no license. do as you wish.
